@@ -1,0 +1,59 @@
+---
+title: "A brief guide to using gomfish R package"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## 1. Installation
+
+First, load the gomfish package and it's dependencies
+
+```{r setup, results = "hide"}
+# Load package
+devtools::install_github("Social-Oceans-Lab/gomfish")
+library(tidyverse)
+```
+
+
+## 2. Datasets
+
+## 3. Inspecting datasets
+
+Every dataset is documented with metadata. To view the metadata for a dataset, use the `?` command. For example, if you wanted to look at the meta-data for the `cdfw_ports` dataset, you would do the following:
+
+```{r }
+# Examine the metadata for the cdfw_port dataset
+?cdfw_ports
+```
+
+This will pop up a description of the dataset and its columns in the "Help" screen of your R text editor.
+
+
+## 4. Saving the dataset as an object
+
+You can save the dataset as an object in your R environment using the assingment operator:
+
+```{r }
+# Save a dataset in your R environment
+data <- wcfish::cdfw_ports
+```
+
+
+## 5. Preparing a quick plot of the dataset
+
+We encourage you to work with the data and plot it based on your own needs. However, we also provide a `plot_data` function for generating a quick plot of the dataset of interest. Note that this only works for the CDFW datasets.
+
+```{r fig.width=7, fig.height=4}
+# Quickly plot a CDFW dataset
+wcfish::plot_data("cdfw_ports")
+```
