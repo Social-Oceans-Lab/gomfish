@@ -13,3 +13,4 @@ __Maine socioeconomic datasets__
 
 __Maine (DMR) fisheries datasets__
 - Annual commercial lobster landings: `?meannuallob`
+- Annual commercial lobster landings & value by county: `?me_lob_county`
