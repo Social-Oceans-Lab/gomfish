@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Theresa Burnham
 Maintainer: Theresa Burnham <theresa.burnham@maine.edu>
 Description: This package is comprised of datasets related to fisheries and socioeconomics of coastal communities in the Gulf of Maine.
-License: 
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 Depends: 
