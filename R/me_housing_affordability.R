@@ -2,7 +2,7 @@
 #'
 #' @description A dataset with annual housing affordability metrics from Maine Housing from 2000-2022
 #'
-#' @format A data frame with 443 rows and 4 variables:
+#' @format A data frame with 5915 rows and 15 variables:
 #' \describe{
 #'   \item{name}{Maine town}
 #'   \item{year}{Year}
@@ -19,6 +19,6 @@
 #'   \item{percentage_of_unattainable_homes_sold}{Percentage of Homes sold that are unnaffordable to median income earner}
 #'   \item{total_households}{The number of occupied housing units of primary residences}
 #'   \item{unattainable_homes_sold}{Count of Homes sold that are unnaffordable to median income earner}
-#'}
+#' }
 #' @source <https://github.com/Social-Oceans-Lab/gomfish>
 "me_housing_affordability"
