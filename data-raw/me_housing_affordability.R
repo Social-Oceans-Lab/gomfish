@@ -11,7 +11,7 @@ library(janitor)
 #1964-2022
 #Source: Homeownership Housing Facts and Affordability Index for Maine Cities and Towns: https://mainehousing.org/policy-research/housing-data/housing-affordability-indexes
 
-raw<-
+ raw<-
   read_csv("data-raw/me_housing_affordability_raw.csv")
 
 me_housing_affordability<-
