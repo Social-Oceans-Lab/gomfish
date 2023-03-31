@@ -22,27 +22,3 @@
 #'}
 #' @source <https://github.com/Social-Oceans-Lab/gomfish>
 "me_housing_affordability"
-
-
-#' @title DATASET_TITLE
-#' @description DATASET_DESCRIPTION
-#' @format A data frame with 5915 rows and 15 variables:
-#' \describe{
-#'   \item{name}{character COLUMN_DESCRIPTION}
-#'   \item{year}{double COLUMN_DESCRIPTION}
-#'   \item{affordability}{character COLUMN_DESCRIPTION}
-#'   \item{affordable_homes_sold}{double COLUMN_DESCRIPTION}
-#'   \item{home_price_affordable_to_median_income}{double COLUMN_DESCRIPTION}
-#'   \item{households_unable_to_afford_median_home_percent}{double COLUMN_DESCRIPTION}
-#'   \item{households_unable_to_afford_median_home}{double COLUMN_DESCRIPTION}
-#'   \item{income_needed_to_afford_median_home_price_annual}{double COLUMN_DESCRIPTION}
-#'   \item{income_needed_to_afford_median_home_price_hourly}{double COLUMN_DESCRIPTION}
-#'   \item{index}{double COLUMN_DESCRIPTION}
-#'   \item{median_home_price}{double COLUMN_DESCRIPTION}
-#'   \item{median_income}{double COLUMN_DESCRIPTION}
-#'   \item{percentage_of_unattainable_homes_sold}{double COLUMN_DESCRIPTION}
-#'   \item{total_households}{double COLUMN_DESCRIPTION}
-#'   \item{unattainable_homes_sold}{double COLUMN_DESCRIPTION}
-#'}
-#' @details DETAILS
-"me_housing_affordability"
