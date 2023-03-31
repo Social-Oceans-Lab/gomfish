@@ -19,5 +19,5 @@ me_housing_affordability<-
   clean_names()%>%
   mutate_if(is.character,str_to_lower)
 
-write_csv(me_housing_affordability,"data-raw/housing_affordability.csv")
+write_csv(me_housing_affordability,"data-raw/me_housing_affordability.csv")
 usethis::use_data(me_housing_affordability,overwrite=TRUE)
