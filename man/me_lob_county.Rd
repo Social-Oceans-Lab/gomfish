@@ -8,7 +8,7 @@
 A data frame with 443 rows and 4 variables:
 \describe{
   \item{year}{Landing year.}
-  \item{score}{Maine county.}
+  \item{county}{Maine county.}
   \item{pounds}{Total pounds of lobster landed by the commercial fishery in a given year and county}
   \item{value}{Total value of lobster landed by the commercial fishery in a given year and county}
 }
