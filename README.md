@@ -8,7 +8,7 @@ This package includes the following Gulf of Maine fisheries datasets:
 
 __Maine socioeconomic datasets__
 - Maine real estate data: `?realestate`
-- Maine housing affordability data: `?housingaffordability`
+- Maine housing affordability data: `?me_housing_affordability`
 - Maine vehicle registration data: `?mevehicleregs`
 
 __Maine (DMR) fisheries datasets__
