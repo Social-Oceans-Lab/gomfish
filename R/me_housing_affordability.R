@@ -4,12 +4,45 @@
 #'
 #' @format A data frame with 443 rows and 4 variables:
 #' \describe{
-#'   \item{name}{Landing year.}
-#'   \item{year}{Maine county.}
-#'   \item{affordability}{Total pounds of lobster landed by the commercial fishery in a given year and county}
-#'   \item{affordable_homes_sold}{Total value of lobster landed by the commercial fishery in a given year and county}
-#'   \item{home_price_affordable_to_median_income}
-#'   \item{}
-#' }
+#'   \item{name}{Maine town}
+#'   \item{year}{Year}
+#'   \item{affordability}{Binary variable (affordable, unaffordable) based on if the median home price is affordable to median income}
+#'   \item{affordable_homes_sold}{Count of homes sold that a median income earner could purchase, spending only 30% or less of their income on housing}
+#'   \item{home_price_affordable_to_median_income}{Price of home that a median income earner can afford, spending 30% or less of their income on housing}
+#'   \item{households_unable_to_afford_median_home_percent}{Percent of households unable to afford the median home price}
+#'   \item{households_unable_to_afford_median_home}{Count of households unable to afford the median home price}
+#'   \item{income_needed_to_afford_median_home_price_annual}{The annual income needed to afford a median home price}
+#'   \item{income_needed_to_afford_median_home_price_hourly}{The hourly income needed to afford a median home price}
+#'   \item{index}{Affordability index with greater than or equal to 1 indicating that a town is affordable to median income earners, and less than 1 indicating that a town is unaffordable to median income earners}
+#'   \item{median_home_price}{Median Price of Home based on MLS sales data}
+#'   \item{median_income}{Median Income of town residents}
+#'   \item{percentage_of_unattainable_homes_sold}{Percentage of Homes sold that are unnaffordable to median income earner}
+#'   \item{total_households}{The number of occupied housing units of primary residences}
+#'   \item{unattainable_homes_sold}{Count of Homes sold that are unnaffordable to median income earner}
+#'}
 #' @source <https://github.com/Social-Oceans-Lab/gomfish>
-"me_lob_county"
+"me_housing_affordability"
+
+
+#' @title DATASET_TITLE
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 5915 rows and 15 variables:
+#' \describe{
+#'   \item{name}{character COLUMN_DESCRIPTION}
+#'   \item{year}{double COLUMN_DESCRIPTION}
+#'   \item{affordability}{character COLUMN_DESCRIPTION}
+#'   \item{affordable_homes_sold}{double COLUMN_DESCRIPTION}
+#'   \item{home_price_affordable_to_median_income}{double COLUMN_DESCRIPTION}
+#'   \item{households_unable_to_afford_median_home_percent}{double COLUMN_DESCRIPTION}
+#'   \item{households_unable_to_afford_median_home}{double COLUMN_DESCRIPTION}
+#'   \item{income_needed_to_afford_median_home_price_annual}{double COLUMN_DESCRIPTION}
+#'   \item{income_needed_to_afford_median_home_price_hourly}{double COLUMN_DESCRIPTION}
+#'   \item{index}{double COLUMN_DESCRIPTION}
+#'   \item{median_home_price}{double COLUMN_DESCRIPTION}
+#'   \item{median_income}{double COLUMN_DESCRIPTION}
+#'   \item{percentage_of_unattainable_homes_sold}{double COLUMN_DESCRIPTION}
+#'   \item{total_households}{double COLUMN_DESCRIPTION}
+#'   \item{unattainable_homes_sold}{double COLUMN_DESCRIPTION}
+#'}
+#' @details DETAILS
+"me_housing_affordability"
