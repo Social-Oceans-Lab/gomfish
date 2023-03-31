@@ -24,5 +24,8 @@ me_lob_county<-
   mutate_if(is.character,str_to_lower)%>%
   filter(county!="total")
 
+##### Write tidy file #####
 write_csv(me_lob_county,"data-raw/me_lob_county.csv")
+
+##### Add to data folder ####
 usethis::use_data(me_lob_county,overwrite=TRUE)
