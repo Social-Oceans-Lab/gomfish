@@ -7,8 +7,8 @@
 #'   \item{name}{Maine town}
 #'   \item{year}{Year}
 #'   \item{affordability}{Binary variable (affordable, unaffordable) based on if the median home price is affordable to median income}
-#'   \item{affordable_homes_sold}{Count of homes sold that a median income earner could purchase, spending only 30% or less of their income on housing}
-#'   \item{home_price_affordable_to_median_income}{Price of home that a median income earner can afford, spending 30% or less of their income on housing}
+#'   \item{affordable_homes_sold}{Count of homes sold that a median income earner could purchase, spending only 30 percent or less of their income on housing}
+#'   \item{home_price_affordable_to_median_income}{Price of home that a median income earner can afford, spending 30 percent or less of their income on housing}
 #'   \item{households_unable_to_afford_median_home_percent}{Percent of households unable to afford the median home price}
 #'   \item{households_unable_to_afford_median_home}{Count of households unable to afford the median home price}
 #'   \item{income_needed_to_afford_median_home_price_annual}{The annual income needed to afford a median home price}
