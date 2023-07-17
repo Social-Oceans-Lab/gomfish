@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 100
----
-
 # gomfish: Gulf of Maine Fisheries Data
 
 ## Installation
@@ -19,15 +13,11 @@ Please be advised - this package is currently in the beta version. This means we
 updating the package to edit existing data sets and add new ones. Therefore, it is important that
 before a new session of use, you re-install the package in order to incorporate the latest updates.
 
-The datasets included in the package are listed below and can be accessed in two ways:
-
-```{r, results="hide"}
-#Call directly from the global environment
-ind_lic_portfolio
-```
+The datasets included in the package are listed below and can be called directly into the global
+environment.
 
 For more information about any dataset, you can use the question mark function to see the meta data,
-as shown below.
+as shown next to each.
 
 ## Datasets
 
@@ -70,13 +60,13 @@ This package includes the following Gulf of Maine fisheries datasets:
 
 ## Glossary
 
-<u>GARFO</u>: NOAA Greater Atlantic Regional Fisheries Office
+GARFO: NOAA Greater Atlantic Regional Fisheries Office
 
-[Maine DMR]{.underline}: Maine Department of Marine Resources
+Maine DIWF: Maine Department of Inland Fisheries & Wildlife
 
-[Maine DIFW]{.underline}: Maine Department of Inland Fisheries & Wildlife
+Maine DMR: Maine Department of Marine Resources
 
 ## Contact
 
 For questions, comments, or suggestions, please contact: Theresa Burnham
-[theresa.burnham\@maine.edu](mailto:theresa.burnham@maine.edu){.email}
+[theresa.burnham\@maine.edu](mailto:theresa.burnham@maine.edu)
