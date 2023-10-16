@@ -41,7 +41,7 @@ This package includes the following Gulf of Maine fisheries datasets:
 
     -   Annual State Boat Registrations (Maine DIWF): `me_diwf_boat_regs`
 
-    -   Annual Federal Boat Registrations (GARFO)
+    -   Annual Federal Boat Registrations (GARFO): `me_garfo_boat_regs`
 
     -   Annual Housing Affordability Data by Town (Maine Housing Authority):
         `?me_housing_affordability`
@@ -52,7 +52,7 @@ This package includes the following Gulf of Maine fisheries datasets:
 
     -   Annual Snowmobile Registrations (Maine DIWF):
 
-    -   Annual Commercial Truck Registration
+    -   Annual Commercial Truck Registration:
 
 -   Custom Datasets
 

@@ -7,7 +7,7 @@
 #'   \item{resident}{Number of resident ATV registrations}
 #'   \item{res_trans}{Unknown value}
 #'   \item{res_fee_ex}{Unknown value}
-#'   \item{nonres_season}{Unknown value}
+#'   \item{nonres_season}{Number of non-resident full season registrations}
 #'   \item{nonres_seven_day}{Number of non-resident 7 day registrations}
 #'   \item{nonres_trans}{Unknown value}
 #'   \item{nonres_fee_ex}{Unknown value}
