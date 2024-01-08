@@ -15,8 +15,8 @@
 #'   \item{cso}{Commercial shellfish + 70}
 #'   \item{css}{Commerical Shrimp Single }
 #'   \item{csu}{Commercial Shellfish Under 18}
-#'   \item{csw}{}
-#'   \item{csws}{}
+#'   \item{csw}{Commercial Shrimp Single}
+#'   \item{csws}{Commercial Shrimp Crew}
 #'   \item{dl}{Demo lobster}
 #'   \item{ds}{Demo Scuba}
 #'   \item{e0}{Elver Dip Net}
@@ -24,15 +24,13 @@
 #'   \item{e1}{Elver 1 Fyke Net}
 #'   \item{e1c}{Elver 1 Fyke Net Crew}
 #'   \item{e2}{Elver 2 Fyke Net}
-#'   \item{e29}{}
+#'   \item{e29}{Elver Non Resident}
 #'   \item{e2c}{Elver 2 Fyke Net with Crew}
 #'   \item{e6}{Elver Dip Net 1 Fyke Net}
 #'   \item{e6c}{Elver Dip Net 1 Fyke Net Crew}
-#'   \item{ed}{}
-#'   \item{eds}{}
-#'   \item{eel}{}
-#'   \item{eex}{}
-#'   \item{elv}{}
+#'   \item{ed}{Elver Dealer}
+#'   \item{eds}{Elver Dealer Supplemental}
+#'   \item{eex}{Elver Exporter}
 #'   \item{ep}{eel pot/hoop net}
 #'   \item{fhc}{federal halibut crew}
 #'   \item{gc}{Green crab }
@@ -54,16 +52,15 @@
 #'   \item{lpto}{Lobster Processor Tails Only}
 #'   \item{lt}{Lobter Transportation}
 #'   \item{lts}{Lobster Transportation Supplemental}
-#'   \item{madf}{}
-#'   \item{maed}{Mal Elver Dip}
-#'   \item{maef}{Mal Elver 1 Fyke (Mal Elver Fyke)}
-#'   \item{mb}{}
+#'   \item{maed}{Maliseet Elver Dip}
+#'   \item{maef}{Maliseet Elver 1 Fyke (Mal Elver Fyke)}
+#'   \item{mb}{Mussel Boat}
 #'   \item{md}{Mussel Dragger}
-#'   \item{menc}{menhaden commercial}
-#'   \item{mennr}{menhaden commercial non-res}
-#'   \item{menr}{menhaden non commercial}
+#'   \item{menc}{Menhaden commercial}
+#'   \item{mennr}{Menhaden commercial non-res}
+#'   \item{menr}{Menhaden non commercial}
 #'   \item{mh}{Mussel Hand}
-#'   \item{mics}{mic comm shellfish}
+#'   \item{mics}{Mic comm shellfish}
 #'   \item{midf}{mic elv dip 1 fyke}
 #'   \item{midfc}{Mic Elver Dip 1 Fyke Crew}
 #'   \item{mief}{Mic Elver (1) Fyke}
@@ -71,42 +68,42 @@
 #'   \item{mimwd}{Mic Marine Worm }
 #'   \item{misd}{Mic Scallop Dragger }
 #'   \item{misdt}{Mic Scallop diver with tender}
-#'   \item{mw}{}
+#'   \item{mw}{Marine Worm Dealer}
 #'   \item{mwd}{Marine Worm Digging}
-#'   \item{mws}{}
-#'   \item{nbal}{Penob Appr Lobster}
-#'   \item{nbcf}{}
-#'   \item{nbcfs}{Penob Comm Fish Single}
-#'   \item{nbcs}{Penob Comm Shellfish}
-#'   \item{nbed}{Penob Elver Dip}
-#'   \item{nbedf}{Penob Elver Dip 1 Fyke}
-#'   \item{nbef}{Penob Elver (1) Fyke}
-#'   \item{nbef2}{Penob Elver 2 Fyke}
-#'   \item{nbef2c}{penob elver 2 fyke crew}
-#'   \item{nblc}{Penob lobster crab}
-#'   \item{nbmd}{Penob Mussel Dragger}
-#'   \item{nbmh}{Penob Mussel Hand}
-#'   \item{nbsc}{penob sust scallop}
-#'   \item{nbsd}{Penob Scallop Dragger}
-#'   \item{nbsf}{penob sust fish}
-#'   \item{nbsl}{Penob Sust Lobster}
-#'   \item{nbss}{Penob Sust Shellfish}
-#'   \item{ncf}{commercial fishing non resident}
-#'   \item{ncp}{non-resident pelagic and anadromous}
-#'   \item{ncs}{Scallop non commericial}
-#'   \item{nfhc}{non federal halibut crew}
-#'   \item{nfhs}{non federal halibut single}
-#'   \item{nla}{Non-res lobster apprentice}
-#'   \item{nlc1}{Non-res lobster class 1 }
-#'   \item{nrlp}{Non-res lob crab landing}
+#'   \item{mws}{Marine Worm Dealer Supplemental}
+#'   \item{nbal}{Penobscot Appr Lobster}
+#'   \item{nbcf}{Penobscot Commercial Fishing}
+#'   \item{nbcfs}{Penobscot Comm Fish Single}
+#'   \item{nbcs}{Penobscot Comm Shellfish}
+#'   \item{nbed}{Penobscot Elver Dip}
+#'   \item{nbedf}{Penobscot Elver Dip 1 Fyke}
+#'   \item{nbef}{Penobscot Elver (1) Fyke}
+#'   \item{nbef2}{Penobscot Elver 2 Fyke}
+#'   \item{nbef2c}{Penobscot elver 2 fyke crew}
+#'   \item{nblc}{Penobscot lobster crab}
+#'   \item{nbmd}{Penobscot Mussel Dragger}
+#'   \item{nbmh}{Penobscot Mussel Hand}
+#'   \item{nbsc}{Penobscot Sust Scallop}
+#'   \item{nbsd}{Penobscot Scallop Dragger}
+#'   \item{nbsf}{Penobscot sust fish}
+#'   \item{nbsl}{Penobscot Sust Lobster}
+#'   \item{nbss}{Penobscot Sust Shellfish}
+#'   \item{ncf}{Commercial Fishing Non-resident}
+#'   \item{ncp}{Non-resident Pelagic and Anadromous}
+#'   \item{ncs}{Scallop Non-commericial}
+#'   \item{nfhc}{Non-federal halibut crew}
+#'   \item{nfhs}{Non-federal halibut single}
+#'   \item{nla}{Non-resident lobster apprentice}
+#'   \item{nlc1}{Non-resident lobster class 1 }
+#'   \item{nrlp}{Non-resident lob crab landing}
 #'   \item{nrs}{Seaweed non resident}
 #'   \item{nrss}{seaweed non resident supp}
-#'   \item{ntp}{non-resident tuna permit}
-#'   \item{pal}{Pass Apprentice Lobster}
-#'   \item{pcf}{pass com fish}
-#'   \item{pcfc}{pass comm fish crew}
-#'   \item{pcfs}{Pass Comm Fish Single }
-#'   \item{pcps}{Pass Comm Fish Single }
+#'   \item{ntp}{Non-resident tuna permit}
+#'   \item{pal}{Passamaquoddy Apprentice Lobster}
+#'   \item{pcf}{Passamaquoddy Commercial Fishing}
+#'   \item{pcfc}{Passamaquoddy Commercial Fishing crew}
+#'   \item{pcfs}{Passamaquoddy Commercial Fishing Single}
+#'   \item{pcps}{Passamaquoddy Commercial Fishing Single}
 #'   \item{pcs}{Pass Comm Shellfish}
 #'   \item{pefd}{Pass Elver Fyke Dip}
 #'   \item{peld}{Pass Elver Dip}
@@ -128,19 +125,17 @@
 #'   \item{psus}{pass sust scallop}
 #'   \item{psw}{pass seaweed}
 #'   \item{pten}{Pass Urchin/Scallop Tender}
-#'   \item{push}{}
 #'   \item{qm}{Quahog (Mahogany)}
 #'   \item{r}{Retail Seafood}
 #'   \item{re}{Enhanced Retail}
-#'   \item{sb}{}
+#'   \item{sb}{Scallop }
 #'   \item{scd}{Sea Cucumber Drag}
 #'   \item{sd}{Scallop Dragger}
 #'   \item{sdi}{Scallop diver}
 #'   \item{sdt}{Scallop with tender}
-#'   \item{sh}{}
 #'   \item{spt}{spat}
-#'   \item{st}{}
-#'   \item{sts}{}
+#'   \item{st}{Shellfish Trans Out-of-State}
+#'   \item{sts}{Shellfish Trans Supp}
 #'   \item{sub}{Sea Urchin Dragger}
 #'   \item{suh}{Sea urchin diver}
 #'   \item{sur}{Sea Urchin Raking}
@@ -148,14 +143,13 @@
 #'   \item{sut}{}
 #'   \item{suwt}{Sea Urchin with Tender}
 #'   \item{sw}{Seaweed}
-#'   \item{swb}{}
-#'   \item{swbn}{}
+#'   \item{swbn}{Non-resident Seaweed Buyer}
 #'   \item{swr}{Recreational Saltwater Registry}
 #'   \item{swro}{Recreational Saltwater Fishing Operater}
 #'   \item{swrs}{recreational saltwater fishing sup}
-#'   \item{sws}{seaweed supplemental}
-#'   \item{ten}{tender}
-#'   \item{vh}{vibrio harvester}
+#'   \item{sws}{Seaweed supplemental}
+#'   \item{ten}{Tender}
+#'   \item{vh}{Vibrio Harvester}
 #'   \item{w}{Wholesale no lobster}
 #'   \item{wl}{Wholesale with lobster}
 #'   \item{wls}{Wholesale with lobster supplemental}

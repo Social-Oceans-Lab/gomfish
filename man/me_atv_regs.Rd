@@ -9,14 +9,14 @@ A data frame with 29 rows and 10 variables:
 \describe{
   \item{season}{ATV registration season Is July 1- June 30}
   \item{year}{The first year of each ATV registartion season}
-  \item{atv_resident_regs}{Number of resident ATV registrations}
-  \item{res_trans}{Unknown value - Number of particular resident ATV registrations that contribute to total registration value}
-  \item{res_fee_ex}{Number of resident ATV registrations that are fee exempt}
-  \item{nonres_season}{Unknown value}
+  \item{resident}{Number of resident ATV registrations}
+  \item{res_trans}{Unknown value}
+  \item{res_fee_ex}{Unknown value}
+  \item{nonres_season}{Number of non-resident full season registrations}
   \item{nonres_seven_day}{Number of non-resident 7 day registrations}
-  \item{nonres_trans}{Unknown value - Number of particular non-resident ATV registrations that contribute to total registration value}
-  \item{nonres_fee_ex}{Number of non-resident ATV registrations that are fee exempt}
-  \item{atv_total_regs}{Number of total ATV registrations}
+  \item{nonres_trans}{Unknown value}
+  \item{nonres_fee_ex}{Unknown value}
+  \item{total}{Number of total ATV registrations}
 }
 }
 \source{
