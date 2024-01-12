@@ -103,7 +103,6 @@
 #'   \item{pcf}{Passamaquoddy Commercial Fishing}
 #'   \item{pcfc}{Passamaquoddy Commercial Fishing crew}
 #'   \item{pcfs}{Passamaquoddy Commercial Fishing Single}
-#'   \item{pcps}{Passamaquoddy Commercial Fishing Single}
 #'   \item{pcs}{Pass Comm Shellfish}
 #'   \item{pefd}{Pass Elver Fyke Dip}
 #'   \item{peld}{Pass Elver Dip}
@@ -128,7 +127,6 @@
 #'   \item{qm}{Quahog (Mahogany)}
 #'   \item{r}{Retail Seafood}
 #'   \item{re}{Enhanced Retail}
-#'   \item{sb}{Scallop }
 #'   \item{scd}{Sea Cucumber Drag}
 #'   \item{sd}{Scallop Dragger}
 #'   \item{sdi}{Scallop diver}
