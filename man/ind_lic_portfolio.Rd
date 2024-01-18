@@ -16,11 +16,10 @@ A data frame with 363211 rows and 158 variables:
   \item{cpc}{Commercial pelagic and anadromous crew}
   \item{cps}{Commercial pelagic and anadromous single}
   \item{cs}{Commercial Shellfish}
-  \item{csc}{Commercial shrimp crew}
+  \item{csc}{Commercial shrimp Crew}
   \item{cso}{Commercial shellfish + 70}
-  \item{css}{Commerical Shrimp Single }
+  \item{css}{Commerical Shrimp Single}
   \item{csu}{Commercial Shellfish Under 18}
-  \item{csw}{Commercial Shrimp Single Crew}
   \item{dl}{Demo lobster}
   \item{ds}{Demo Scuba}
   \item{e0}{Elver Dip Net}
@@ -58,7 +57,6 @@ A data frame with 363211 rows and 158 variables:
   \item{lts}{Lobster Transportation Supplemental}
   \item{maed}{Maliseet Elver Dip}
   \item{maef}{Maliseet Elver 1 Fyke (Mal Elver Fyke)}
-  \item{mb}{Mussel Boat}
   \item{md}{Mussel Dragger}
   \item{menc}{Menhaden commercial}
   \item{mennr}{Menhaden commercial non-res}

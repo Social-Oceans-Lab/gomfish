@@ -52,7 +52,6 @@
 #'   \item{lts}{Lobster Transportation Supplemental}
 #'   \item{maed}{Maliseet Elver Dip}
 #'   \item{maef}{Maliseet Elver 1 Fyke (Mal Elver Fyke)}
-#'   \item{mb}{Mussel Boat}
 #'   \item{md}{Mussel Dragger}
 #'   \item{menc}{Menhaden commercial}
 #'   \item{mennr}{Menhaden commercial non-res}
