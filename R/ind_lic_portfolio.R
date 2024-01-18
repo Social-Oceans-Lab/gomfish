@@ -11,12 +11,10 @@
 #'   \item{cpc}{Commercial pelagic and anadromous crew}
 #'   \item{cps}{Commercial pelagic and anadromous single}
 #'   \item{cs}{Commercial Shellfish}
-#'   \item{csc}{Commercial shrimp crew}
+#'   \item{csc}{Commercial shrimp Crew}
 #'   \item{cso}{Commercial shellfish + 70}
-#'   \item{css}{Commerical Shrimp Single }
+#'   \item{css}{Commerical Shrimp Single}
 #'   \item{csu}{Commercial Shellfish Under 18}
-#'   \item{csw}{Commercial Shrimp Single}
-#'   \item{csws}{Commercial Shrimp Crew}
 #'   \item{dl}{Demo lobster}
 #'   \item{ds}{Demo Scuba}
 #'   \item{e0}{Elver Dip Net}

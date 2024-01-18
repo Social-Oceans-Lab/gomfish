@@ -20,8 +20,7 @@ A data frame with 363211 rows and 158 variables:
   \item{cso}{Commercial shellfish + 70}
   \item{css}{Commerical Shrimp Single }
   \item{csu}{Commercial Shellfish Under 18}
-  \item{csw}{Commercial Shrimp Single}
-  \item{csws}{Commercial Shrimp Crew}
+  \item{csw}{Commercial Shrimp Single Crew}
   \item{dl}{Demo lobster}
   \item{ds}{Demo Scuba}
   \item{e0}{Elver Dip Net}
