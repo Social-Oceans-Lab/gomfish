@@ -68,9 +68,11 @@ This package includes the following Gulf of Maine fisheries datasets:
     This dataset is an annual, regional record of marine casualties that occurred off the coast of Maine on lobster vessels associated with a Maine lobster license from 1999-2015. This record includes all casualties that required US Coast Guard intervention including boat malfunctions, personal injury, and death.
     
     6. Marine resource violations data (Source: Maine Marine Patrol)
+    
     This dataset describes the monthly, town-level frequency of marine resource violations recorded by Maine Marine Patrol, including those that occurred on lobster fishing vessels from 2000-2021.
     
     7. Risk index (Source: European Centre for Medium Weather Forecasts’s reanalysis product ERA5)
+    
     This dataset presents a composite daily risk index, which describes the relative risk level of conditions at sea by zone and day from 2010-2021. The risk index was created by first calculating 12 hour daily averages of wind speed, wind gusts, air temperature, significant wave height, and wave period. Then, we conducted a principal component analysis to determine appropriate weighting for each weather component, resulting in a single value per zone and day. 
 
 
