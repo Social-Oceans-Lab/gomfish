@@ -1,5 +1,5 @@
 ##### Purpose #####
-#To import and document the individual license portfolios of fishermen in Maine from 2016-2021
+#To import and document the individual license portfolios of fishermen in Maine from 2008-2022
 
 ##### Load Packages #####
 library(tidyverse)

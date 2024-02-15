@@ -21,15 +21,17 @@ as shown next to each.
 
 ## Datasets
 
-This package includes the following Gulf of Maine fisheries datasets:
-
 ### Maine
 
 #### Fisheries dependent data and metrics (Source: Maine DMR)
 
 1.  Individiual state license portfolios
 
+    `ind_lic_portfolio`
+
 2.  Raw individual federal permit data
+
+    `raw_fed_permits`
 
 #### Non-fisheries dependent secondary datasets
 
