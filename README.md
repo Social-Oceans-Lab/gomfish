@@ -23,15 +23,15 @@ as shown next to each.
 
 This package includes the following Gulf of Maine fisheries datasets:
 
-**Maine**
+### Maine
 
-Fisheries dependent data and metrics (Source: Maine DMR)
+#### Fisheries dependent data and metrics (Source: Maine DMR)
 
 1.  Individiual state license portfolios
 
 2.  Raw individual federal permit data
 
-Non-fisheries dependent secondary datasets
+#### Non-fisheries dependent secondary datasets
 
 1.  Short-term rental data (Source: Airbnb.com web scrape)
 
@@ -94,6 +94,8 @@ Non-fisheries dependent secondary datasets
     `me_risk_index`
 
     This dataset presents a composite daily risk index, which describes the relative risk level of conditions at sea by zone and day from 2010-2021. The risk index was created by first calculating 12 hour daily averages of wind speed, wind gusts, air temperature, significant wave height, and wave period. Then, we conducted a principal component analysis to determine appropriate weighting for each weather component, resulting in a single value per zone and day. 
+
+#### Analytical Outputs
 
 ## Glossary
 
