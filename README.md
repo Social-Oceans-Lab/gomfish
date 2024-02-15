@@ -25,7 +25,8 @@ This package includes the following Gulf of Maine fisheries datasets:
 
 **Maine**
 
--   Fisheries dependent data and metrics
+Fisheries dependent data and metrics
+
 
     -   Annual commercial lobster landings & value by county: `?me_lob_county`
 
@@ -33,20 +34,16 @@ This package includes the following Gulf of Maine fisheries datasets:
 
     -   Raw Individual federal permit data 2006-2018: `?fed_permits_2006_2018_raw`
 
--   Non-fisheries dependent secondary datasets
-    
-    1.  Short-term rental data (Source: Airbnb.com web scrape)
-    
+Non-fisheries dependent secondary datasets
+1.  Short-term rental data (Source: Airbnb.com web scrape)
     This dataset presents a summary of the number of new and total full-unit properties (not room rentals) advertised on Airbnb in towns across Maine each month from 2010-2021.
-    
-    2.  Real estate data (Source: Realtor.com)
-    
+2.  Real estate data (Source: Realtor.com)
     This dataset presents a monthly, town level summary of the following real estate variables from July 2016-January 2022:
-    - Average home listing price 
-    - Median home listing price
-    - Median home listing price per square foot
-    - Median number of days a home is on the market
-    - Total listing count
+    -   Average home listing price 
+    -   Median home listing price
+    -   Median home listing price per square foot
+    -   Median number of days a home is on the market
+    -   Total listing count
     
     
     3.  Housing data (Source: Maine State Housing Authority)
