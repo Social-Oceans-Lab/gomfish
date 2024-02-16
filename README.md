@@ -97,8 +97,6 @@ as shown next to each.
 
     This dataset presents a composite daily risk index, which describes the relative risk level of conditions at sea by zone and day from 2010-2021. The risk index was created by first calculating 12 hour daily averages of wind speed, wind gusts, air temperature, significant wave height, and wave period. Then, we conducted a principal component analysis to determine appropriate weighting for each weather component, resulting in a single value per zone and day. 
 
-#### Analytical Outputs
-
 ## Glossary
 
 GARFO: NOAA Greater Atlantic Regional Fisheries Office

@@ -10,9 +10,9 @@ A data frame with 522144 rows and 8 variables:
   \item{region}{Coastal Region in Maine}
   \item{county}{County in Maine}
   \item{town}{Town in Maine}
-  \item{month}{Month airbnbs are advertised}
-  \item{year}{Year airbnbs are advertised}
-  \item{date}{YYMM date airbnbs are advertised}
+  \item{month}{Month}
+  \item{year}{Year}
+  \item{date}{YYYY-MM-01 date}
   \item{new_airbnbs}{New full-unit airbnbs advertised}
   \item{total_airbnbs}{Total full-unit airbnbs advertised}
 }
