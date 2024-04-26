@@ -25,7 +25,7 @@ as shown next to each.
 
 #### Fisheries dependent data and metrics (Source: Maine DMR)
 
-1.  Individiual state license portfolios
+1.  Individiual state license portfolios (1990-2023)
 
     `ind_lic_portfolio`
 
